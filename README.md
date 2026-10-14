@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Kerry Herrera 👋
 
-<!--
-**Kerrykss/Kerrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack Junior en Medellín, Colombia. Aprendiz del Tecnólogo en Análisis y Desarrollo de Software (SENA). Busco mi primera experiencia laboral en un rol retador donde pueda aportar desde el primer día y seguir creciendo.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Python (FastAPI), Node.js/Express, Java
+- **Frontend:** React, HTML, CSS
+- **Móvil:** Android (Kotlin)
+- **Bases de datos:** MySQL, MongoDB, SQLite
+- **Herramientas:** Git/GitHub, Docker, Azure, Postman
+
+## Proyectos destacados
+
+- **[MesaSmart](https://github.com/stivenescobarg/MesaSmart_V.2.0):** SaaS multi-restaurante desplegado en Azure, desarrollado en equipo. Desarrollé el módulo de bar de punta a punta (frontend, backend y base de datos).
+- **[device_systems](https://github.com/Kerrykss/device_systems):** API con FastAPI con autenticación JWT/OAuth2, migraciones con Alembic y modelos con relaciones.
+- **[proyecto-pandas](https://github.com/Kerrykss/proyecto-pandas):** análisis y limpieza de datos con Python y Pandas.
+
+## Contacto
+
+- 📧 kerryalejandroh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kerry-alejandro-herrera-902319437)
