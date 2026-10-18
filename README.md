@@ -19,4 +19,4 @@ Desarrollador Full Stack Junior en Medellín, Colombia. Aprendiz del Tecnólogo 
 ## Contacto
 
 - 📧 kerryalejandroh@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/kerry-alejandro-herrera-902319437](https://www.linkedin.com/in/kerry-herrera-garcia-902319437 ))
+- 💼 [LinkedIn](https://www.linkedin.com/in/kerry-herrera-garcia-902319437)
